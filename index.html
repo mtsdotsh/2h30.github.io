@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Um ano de nós · Recap</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="top-bar">
+    <span class="brand">Um ano de nós</span>
+    <span class="section-indicator section-overall" id="sectionIndicator">Tudo junto</span>
+    <div class="progress-track"><div class="progress-fill" id="progress"></div></div>
+  </header>
+
+  <button class="click-zone click-zone-left" id="clickPrev" aria-label="Slide anterior">‹</button>
+  <button class="click-zone click-zone-right" id="clickNext" aria-label="Próximo slide">›</button>
+
+  <main class="carousel" id="carousel"></main>
+
+  <nav class="bottom-nav">
+    <button class="nav-btn" id="prevBtn" aria-label="Anterior">‹</button>
+    <span class="counter"><span id="current">1</span> / <span id="total">0</span></span>
+    <button class="nav-btn" id="nextBtn" aria-label="Próximo">›</button>
+  </nav>
+
+  <script src="script.js"></script>
+</body>
+</html>

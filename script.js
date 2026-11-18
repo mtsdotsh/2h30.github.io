@@ -581,7 +581,7 @@
         {value:'Dez',label:'mês mais intenso'}
       ],
       coincidence:'Na semana de <strong>8 a 14 de dezembro</strong>, <strong>8.795</strong> mensagens. Começa com 8. Termina com 8. E foi a semana mais intensa do Instagram no ano. De novo, o nosso número.',
-      funFact:'No dia <strong>11 de dezembro de 2025</strong> a gente trocou <strong>2.598 textos',
+      funFact:'No dia <strong>11 de dezembro de 2025</strong> a gente trocou <strong>2.598 textos</strong>',
       insight:'Dezembro e fevereiro foram os nossos meses mais intensos. A gente tava se conhecendo, né, rs'
     }),
 

@@ -79,7 +79,7 @@
       {label:'20 jan',sub:'2026',value:1574}
     ],
     weeks: [
-      {label:'8 dez',sub:'→ 14 dez',value:8795},
+      {label:'8 dez',sub:'→ 14 dez',value:8798},
       {label:'2 fev',sub:'→ 8 fev',value:8241},
       {label:'26 jan',sub:'→ 1 fev',value:7090},
       {label:'16 fev',sub:'→ 22 fev',value:6298},
@@ -317,7 +317,7 @@
         {value:'10.433',label:'textos · 7.163 vídeos'}
       ],
       coincidence: 'Você manda vídeo, eu mando texto. <strong>87,8%</strong> dos vídeos são seus (<strong>6.286</strong> contra 877 meus). <strong>66,8%</strong> dos textos são meus (<strong>6.966</strong> contra 3.467 seus). O TikTok é onde você me enche de vídeo, 17 por dia.',
-      funFact: 'Se cada vídeo durasse <strong>30 segundos</strong>, seriam <strong>59,7 horas de vídeo</strong> que trocamos em um ano. Só os seus vídeos dariam <strong>52,4 horas</strong>, mais de 2 dias inteiros de vídeos que eu recebi de você. E se cada texto fosse 1 minuto, seriam <strong>7,2 dias</strong> digitando.',
+      funFact: 'Se cada vídeo durasse <strong>30 segundos</strong>, seriam <strong>59,7 horas de vídeo</strong> que trocamos em um ano.',
       insight: 'No TikTok você manda vídeo. Eu respondo tudo. É o nosso jeito.'
     });
   }
@@ -335,8 +335,8 @@
         {value:'52.165',label:'textos · 35.815 posts'}
       ],
       coincidence: 'Aqui foi onde tudo começou. Muitos posts. Muita piada. Muitas dúvidas',
-      funFact: 'Se cada mensagem do Twitter durasse <strong>1 minuto</strong>, seriam <strong>61 dias seguidos</strong> de conversa. Se fosse 1 metro, seria uma estrada de <strong>88 km</strong>. Se eu lesse uma por segundo, seriam <strong>24,4 horas</strong>, sobra muito tempo para pegar estrada e te dar um abraço.',
-      insight: 'Não teve print, mas eu lembro. Eram muitas. E todas sem pretensão.'
+      funFact: 'Se cada mensagem do Twitter durasse <strong>1 minuto</strong>, seriam <strong>61 dias seguidos</strong> de conversa.',
+      insight: 'Não teve print da maioria, mas eu lembro. Eram muitas. E todas sem pretensão (obviamente).'
     });
   }
 
@@ -356,7 +356,6 @@
           <div class="overall-card">
             <span class="overall-value" data-count="${ALL.total}">0</span>
             <span class="overall-label">mensagens em 1 ano</span>
-            <span class="overall-sub">em WhatsApp, Instagram, TikTok e Twitter · média de 1.267 por dia</span>
           </div>
         </div>
       </section>`;
@@ -380,7 +379,7 @@
         {value:'212,0 km',label:'meus'},
         {value:'337,6 km',label:'faltando'}
       ],
-      funFact:'Passamos da metade dos <strong>800 km</strong> que nos separam! Para chegar até você, ainda faltariam <strong>337,6 km</strong>. Se cada mensagem fosse 1 metro, a gente já construiu mais da metade da estrada entre a gente.',
+      funFact:'Passamos da metade dos <strong>800 km</strong> que nos separam. Para chegar até você, ainda faltariam <strong>337,6 km</strong>. Se cada mensagem fosse 1 metro, a gente já construiu mais da metade da estrada entre a gente.',
       insight:'Um dia a gente fecha essa distância. E não vai precisar de mensagem nenhuma.'
     }),
 
@@ -395,7 +394,7 @@
         {value:'127.816',label:'entre 19h e 23h'},
         {value:'35,5h',label:'no top 5 · 1s/msg'}
       ],
-      funFact:'Entre 19h e 23h a gente trocou <strong>127.816 mensagens</strong>. Se cada uma durasse 1 segundo, seriam <strong>35,5 horas</strong> falando — o equivalente a ouvir o álbum <strong>"Até o Próximo Carnaval"</strong>, do Sotam, <strong>65 vezes seguidas</strong>.',
+      funFact:'Entre 19h e 23h a gente trocou <strong>127.816 mensagens</strong>. Se cada uma durasse 1 segundo, seriam <strong>35,5 horas</strong> falando. O equivalente a ouvir o álbum <strong>"Até o Próximo Carnaval"</strong>, do Sotam, <strong>65 vezes seguidas</strong>.',
       insight:'21h é nosso horário favorito.'
     }),
 
@@ -421,7 +420,7 @@
         {value:'3x',label:'acima da média'}
       ],
       coincidence:'Em duas semanas <strong>seguidas de 6 a 12 de abril</strong> e de <strong>13 a 19 de abril</strong> a gente trocou <strong>8.470</strong> e <strong>8.471</strong> mensagens. Uma diferença de <strong>1</strong>. O 8 apareceu de novo.',
-      funFact:'No dia <strong>1 de março de 2026</strong> foram <strong>3.824 mensagens</strong>. Se cada uma durasse 1 minuto, seria <strong>2,6 dias de conversa em 1 dia só</strong>. Na semana de 23 de fevereiro a 1 de março, foram 12.605. Quase <strong>7 dias inteiros</strong> de conversa acumulada em 7 dias reais.',
+      funFact:'No dia <strong>1 de março de 2026</strong> foram <strong>3.824 mensagens</strong>. Na semana de 23 de fevereiro a 1 de março, foram 12.605. Quase <strong>7 dias inteiros</strong> de conversa acumulada em 7 dias reais.',
       insight:'Alguns dias viraram maratonas. E a gente nem percebeu.'
     }),
 
@@ -557,7 +556,7 @@
         {value:'42,1%',label:'do total'}
       ],
       funFact:'Só no horário das <strong>20h</strong> foram <strong>8.986 mensagens</strong> ao longo do ano. De novo, 8 (da noite). Em média, 25 por dia nesse horário, quase uma a cada 2 minutos. Se cada uma durasse 1 segundo, seria <strong>2,5 horas</strong> falando só das 20h às 21h.',
-      insight:'8 da noite é nosso horário favorito no WhatsApp.'
+      insight:'8 da noite é nosso horário favorito no Instagram.'
     }),
 
     slide({
@@ -582,7 +581,7 @@
         {value:'Dez',label:'mês mais intenso'}
       ],
       coincidence:'Na semana de <strong>8 a 14 de dezembro</strong>, <strong>8.795</strong> mensagens. Começa com 8. Termina com 8. E foi a semana mais intensa do Instagram no ano. De novo, o nosso número.',
-      funFact:'No dia <strong>11 de dezembro de 2025</strong> a gente trocou <strong>2.598 textos</strong>. Se cada um durasse 1 minuto, seria <strong>1,8 dias de conversa em 1 dia só</strong>. Na semana de 8 a 14 de dezembro, foram 8.795. Como se a gente tivesse conversado <strong>6 dias inteiros em 7 dias</strong>.',
+      funFact:'No dia <strong>11 de dezembro de 2025</strong> a gente trocou <strong>2.598 textos',
       insight:'Dezembro e fevereiro foram os nossos meses mais intensos. A gente tava se conhecendo, né, rs'
     }),
 
